@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "337687092929",
+    "project_id": "beesness-3d550",
+    "storage_bucket": "beesness-3d550.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337687092929:android:857c258021e8d6aefa7e40",
+        "android_client_info": {
+          "package_name": "com.example.beesness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337687092929-ujq5gfkp7tchne053d3q8svhh2cfdm47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNfwK_kxgFsd52FuqSQn4jrI9LguiUDeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337687092929-ujq5gfkp7tchne053d3q8svhh2cfdm47.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "337687092929-1nqq5tvcik3p5a46j6kpfa82kdgq8smh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.beesness"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
